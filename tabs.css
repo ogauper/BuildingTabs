@@ -1,0 +1,15 @@
+div.nav-tab
+{
+  background-color: darkgrey;
+  border-style: solid;
+
+}
+a.navigation
+{
+  text-decoration: none;
+}
+
+div.nav-tab:hover
+{
+    color: blue;
+}
